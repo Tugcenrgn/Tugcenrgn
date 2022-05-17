@@ -26,5 +26,5 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://www.w3schools.com/python/)" target="_blank" rel="noreferrer"> 
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png?20100317150552)" alt="python" width="40" height="40"/> </a> 
+    <img src="[[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png?20100317150552)](https://www.vectorlogo.zone/logos/python/python-icon.svg)" alt="python" width="40" height="40"/> </a> 
 </p>
