@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript** then i will start **React**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Tugcenrgn?tab=repositories](https://github.com/Tugcenrgn?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Tugcenrgn?tab=repositories](Github-tugcenrgn)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
