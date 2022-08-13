@@ -3,7 +3,7 @@
 
 - 🔭 I’m studying at **Istanbul Medeniyet University**
 
-- 🌱 I’m currently learning **JavaScript** then i will start **React**.
+- 🌱 I’m currently learning **JavaScript** and **React**.
 
 - 👨‍💻 All of my projects are available at [Github-tugcenrgn](https://github.com/Tugcenrgn?tab=repositories)
 
@@ -18,6 +18,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+   <img src="https://icon-library.com/images/react-icon/react-icon-29.jpg" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
