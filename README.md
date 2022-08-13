@@ -31,5 +31,12 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> 
+  
+  
+  
+  ![giphy](https://user-images.githubusercontent.com/60977455/184500040-d3dafe6f-a1aa-44c1-b670-25e5605ed0e4.gif)
+
+  
+  
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> 
 </p>
